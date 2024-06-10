@@ -1,4 +1,7 @@
 ## Hi there 👋
+its my first work on github
+i am very excited
+author-soumya
 
 <!--
 **Soumya-Srivastava2003/Soumya-Srivastava2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
